@@ -49,20 +49,20 @@ This project served as the foundation for the second version of the system, deve
 - Improved validation and business logic.
 - Migration from CSV/text files to a **SQLite database** for more efficient and secure data storage.
 
-## License
+### License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
+### Acknowledgments
 
 - Developed by **Gebremariam Birhanu**.
 - Inspired by the need to digitize manual record-keeping processes in schools.
 
-## Main Code:
+### Main Code:
 
 - Check main code: [Admin.cs](https://github.com/Gebre-Git/School-Management-System-V2/blob/main/Admin.cs)
   
-## System Version:
+### System Version:
 - Version 1 (Python tkinter) : [School-Management-System-V1](https://github.com/Gebre-Git/School-Management-System-V1)
 - Version 2 (Csharp Console) : [School-Management-System-V2](https://github.com/Gebre-Git/School-Management-System-V2)
 - Version 3 (Advanced version of windowforms) : [School-Management-System-V3](https://github.com/Gebre-Git/School-Management-System-V3)
