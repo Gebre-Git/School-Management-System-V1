@@ -57,6 +57,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Developed by **Gebremariam Birhanu**.
 - Inspired by the need to digitize manual record-keeping processes in schools.
+
+# Main Code:
+
+- Check main code: [Admin.cs](https://github.com/Gebre-Git/School-Management-System-V2/blob/main/Admin.cs)
+  
 ### System Version:
 - Version 1 (Python tkinter) : [School-Management-System-V1](https://github.com/Gebre-Git/School-Management-System-V1)
 - Version 2 (Csharp Console) : [School-Management-System-V2](https://github.com/Gebre-Git/School-Management-System-V2)
